@@ -5,7 +5,7 @@ Here we will be running the spark job to extract data from the JSON files and tr
 you will need a Postgresql up and running with username etl.
 Just need to specify the same in the etl.py file
 
-!Architecture(https://github.com/kalpeshkocharekar/ETL_pipeline_Spark/blob/master/architecture.png)
+Architecture(https://github.com/kalpeshkocharekar/ETL_pipeline_Spark/blob/master/architecture.png)
 
 Below are the file descriptions
 
