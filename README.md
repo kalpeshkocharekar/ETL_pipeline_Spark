@@ -7,4 +7,4 @@ Just need to specify the same in the etl.py file
 
 below are the file descriptions
 
-[etl.py](https://github.com/kalpeshkocharekar/ETL_pipeline_Spark/blob/master/etl.py)
+[etl.py]
