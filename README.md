@@ -13,7 +13,7 @@ below are the file descriptions
 
 [sql_queries.py](https://github.com/kalpeshkocharekar/ETL_pipeline_Spark/blob/master/sql_queries.py) - contains the sql queries to create tables used by create_tables.py
 
-[etl.ipnb](https://github.com/kalpeshkocharekar/ETL_pipeline_Spark/blob/master/etl.ipynb) - to learn the step by step execution of spark ETL pipeline
+[etl.ipynb](https://github.com/kalpeshkocharekar/ETL_pipeline_Spark/blob/master/etl.ipynb) - to learn the step by step execution of spark ETL pipeline
 
 [jsondata](https://github.com/kalpeshkocharekar/ETL_pipeline_Spark/tree/master/jsondata) - containes the sample data to be processed
 
