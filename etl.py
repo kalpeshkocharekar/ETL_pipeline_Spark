@@ -2,7 +2,6 @@
 import os
 os.environ['PYSPARK_SUBMIT_ARGS'] = '--packages org.postgresql:postgresql:42.1.1 pyspark-shell'
 import pyspark
-import pandas as pd
 from pyspark.sql import SparkSession
 from pyspark import SparkContext
 from pyspark.sql.functions import col
